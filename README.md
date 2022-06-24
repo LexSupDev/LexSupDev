@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/lexsupdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lexsupdev" height="30" width="40" /></a>
 <a href="https://instagram.com/lexsupdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lexsupdev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lexsupdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lexsupdev" height="30" width="40" /></a>
-<a href="https://t.me/lexsupp8" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="lexsupp8" height="30" width="40" /></a>
+<a href="https://t.me/lexsupp8" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="lexsupp8" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
