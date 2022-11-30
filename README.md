@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexei</h1>
-<h3 align="center">A passionate junior frontend developer and crypto enthusiast</h3>
+<h3 align="center">A passionate junior frontend developer</h3>
 
 - 🌱 I’m currently learning **JS and React**
 
