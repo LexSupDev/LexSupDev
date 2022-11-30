@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **JS and React**
 
-- 🤝 I’m looking for help with **building a friendly community of professionals around frontend, crypto and web3.0**
+- 🤝 I’m looking for help with **building a friendly community of professionals around frontend**
 
-- 💬 Ask me about **HTML, CSS, Crypto.**
+- 💬 Ask me about **HTML, CSS.**
 
 - 📫 How to reach me **lexsupdev@gmail.com**
 
